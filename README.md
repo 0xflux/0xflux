@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alumni+Sans+Inline+One&size=50&pause=1000&color=F76C4F&background=FF000000&center=true&vCenter=true&random=false&width=1000&lines=Enter+the+F+L+U+X;I+use+arch+btw;Have+you+tried+that+in+rust%3F;How+do+you+exit+vim%3F!)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alumni+Sans+Inline+One&size=50&pause=1000&color=F76C4F&background=FF000000&center=true&vCenter=true&random=false&width=1000&lines=Enter+the+F+L+U+X;I+use+arch+btw;Have+you+tried+that+in+rust%3F;How+do+you+exit+vim%3F!;SYSTEM+FAILURE.)](https://git.io/typing-svg) 
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,go,rust,py,cs,mongodb,nginx,html,css,php,linux,docker,vscode,visualstudio)](https://skillicons.dev)
  
