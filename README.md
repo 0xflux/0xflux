@@ -17,7 +17,6 @@ I dive into the abyss of operating system internals, often emerging with that "E
 Most of my projects are more mysterious than the dark side of the moon (or at least, I like to think so), and I keep them private. But fear not! I might drop some intriguing code snippets here, like breadcrumbs in the forest, for those keen to follow my trail.
 
 <br clear="left"/>
-<br />
 
 <img src="https://github.com/0xflux/0xflux/assets/49762827/d8d0c25a-cb92-4810-9cb2-f27ce2ce876d" width=400 height=400 align="right" /> 
 
