@@ -30,6 +30,17 @@ My ultimate mission? To join the elite ranks of full-time red teamers, crafting 
 
 So, pull up a chair, take a look around, and let's have some fun (ethically, of course) in this wild world of cybersecurity!
 
+<br clear="right"/>
+
+<hr/>
+
+### 🏅 Achievement Unlocked: Badges Galore!
+
+
+| Badge | Description |
+| --- | --- |
+|<img width="110" alt="Haunted Hollow" src="https://github.com/0xflux/0xflux/assets/49762827/2af7ed12-d999-467a-ba43-56aa488c4bdb"> | 👻 Haunted Hollow CTF Conqueror <br/><br/>Haunted Hollow Capture The Flag competition completed on Immersive Labs November 2023. These challenges involved reverse engineering, buffer overflow exploit, web app pentestesting, privilege escallation and reverse engineering! |
+
 <!--
 **0xflux/0xflux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
