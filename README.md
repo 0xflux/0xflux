@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Enter+the+F+L+U+X;I+use+arch+btw;Have+you+tried+that+in+rust?)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alumni+Sans+Inline+One&size=40&pause=1000&color=F76C4F&background=FF000000&center=true&vCenter=true&random=false&width=1000&lines=Enter+the+F+L+U+X;I+use+arch+btw;Have+you+tried+that+in+rust%3F;How+do+you+exit+vim%3F!)](https://git.io/typing-svg) 
+ 
 <hr/>
 
 <img src="https://github.com/0xflux/0xflux/assets/49762827/d2f1738f-de3b-4d5e-b113-e6c6d672ad92" width=400 height=400 align="left" /> 
