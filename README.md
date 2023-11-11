@@ -34,7 +34,7 @@ So, pull up a chair, take a look around, and let's have some fun (ethically, of 
 
 <hr/>
 
-### 🏅 Achievement Unlocked: Badges Galore!
+### 🏅 Achievements
 
 
 | Badge | Description |
