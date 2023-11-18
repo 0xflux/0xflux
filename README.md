@@ -8,7 +8,7 @@
 
 ### 👾 About Me: A Code-Wielding Cyber Ninja... Sort Of
 
-Hello there, cyber wanderer! Welcome to my digital lair where I dabble in the dark arts of offensive development and red teaming – but, you know, for good. I’m like a digital locksmith; I pick locks not to steal, but just to prove I can!
+Hello there, cyber wanderer! Welcome to my digital lair where I dabble in the dark arts of offensive development and red teaming – but, you know, for good. I’m like a digital locksmith; I pick locks not to steal, but just to prove I can! I have [a blog](https://fluxsec.red)!
 
 I dive into the abyss of operating system internals, often emerging with that "Eureka!" moment when I actually understand something. Currently, I'm mastering the art of red teaming, which is just a fancy way of saying I'm learning how to legally 'break stuff' online.
 
