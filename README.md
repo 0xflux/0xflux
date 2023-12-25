@@ -24,7 +24,7 @@ Most of my projects are more mysterious than the dark side of the moon (or at le
 
 Remember, my work is for the forces of good. If you're thinking of using my code for nefarious purposes, think again! I can't be held responsible for any villainous use of my public code. Besides, I still classify myself as a proud n00b. Running my code in production? Well, that's a bigger gamble than betting on a three-legged horse! (But hey, between you and me, my code might just be more stable than the Windows kernel. Shh!)
 
-### 🎯 Goals: Red Team Dream Team
+### 🎯 Goals: Red Team
 
 My ultimate mission? To join the elite ranks of full-time red teamers, crafting unique offensive tools that are as ethical as they are effective. Think of me as a white hat hacker in training – just with less of the hat and more of the hacking.
 
