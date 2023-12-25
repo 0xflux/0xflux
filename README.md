@@ -6,13 +6,13 @@
 
 <img src="https://github.com/0xflux/0xflux/assets/49762827/d2f1738f-de3b-4d5e-b113-e6c6d672ad92" width=400 height=400 align="left" /> 
 
-### 👾 About Me: A Code-Wielding Cyber Ninja... Sort Of
+### 👾 About Me: Passionate about cyber
 
 Hello there, cyber wanderer! Welcome to my digital lair where I dabble in the dark arts of offensive development and red teaming – but, you know, for good. I’m like a digital locksmith; I pick locks not to steal, but just to prove I can! I have [a blog](https://fluxsec.red)!
 
 I dive into the abyss of operating system internals, often emerging with that "Eureka!" moment when I actually understand something. Currently, I'm mastering the art of red teaming, which is just a fancy way of saying I'm learning how to legally 'break stuff' online.
 
-### 🔒 Keeping It Secret, Keeping It Safe
+### 🔒 Privacy
 
 Most of my projects are more mysterious than the dark side of the moon (or at least, I like to think so), and I keep them private. But fear not! I might drop some intriguing code snippets here, like breadcrumbs in the forest, for those keen to follow my trail.
 
