@@ -40,6 +40,7 @@ So, pull up a chair, take a look around, and let's have some fun (ethically, of 
 | Badge | Description |
 | --- | --- |
 |<img width="110" alt="Haunted Hollow" src="https://github.com/0xflux/0xflux/assets/49762827/2af7ed12-d999-467a-ba43-56aa488c4bdb"> | 👻 Haunted Hollow CTF Conqueror <br/><br/>Haunted Hollow Capture The Flag competition completed on Immersive Labs November 2023. These challenges involved reverse engineering, buffer overflow exploit, web app pentestesting, privilege escallation and reverse engineering! |
+|<img width="110" alt="Reflective DLL Injection" src="https://avatars.githubusercontent.com/u/49762827?v=4"> | 🦠 Greatest malware development achievement<br/><br/>Creating a fully reflective DLL Injector, which bulids a single file including the DLL to be injected, and a reflective loader. I may open source this in the future, but for now keeping private. |
 
 <!--
 **0xflux/0xflux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
