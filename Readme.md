@@ -4,6 +4,8 @@
  
 <hr/>
 
+Come check my [blog](https://fluxsec.red) where I occasionally talk about cool things.
+
 <!--
 **0xflux/0xflux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
